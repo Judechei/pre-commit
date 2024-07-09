@@ -1,5 +1,6 @@
 run:
   timeout: 5m
+                 wrong_value
 
 issues:
   exclude-use-default: false
